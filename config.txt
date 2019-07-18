@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=1
-game=play
+owner=296181732242096138
+prefix=L
+game=LastKing
 stayinchannel=true
 songinstatus=false
-token=NTMyOTM4ODQ4ODA4ODYxNzE5.DxjzfA.Nss_r9BRZ1VEpyeHgketTem5q_o
+token=NDM5Nzg0ODMzMDk1NTY1MzE1.XS-U6A.tV8IkDiCxkEeCk-aJWkwQvw6Rck
